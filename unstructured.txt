@@ -1,0 +1,1605 @@
+cbsc
+Class 7 
+
+**Mathematics:**
+1. **Number System:**
+   - Integers
+   - Fractions and Decimals
+   - Rational Numbers
+2. **Algebra:**
+   - Algebraic Expressions
+   - Linear Equations in One Variable
+3. **Geometry:**
+   - Understanding Elementary Shapes (2-D and 3-D)
+   - Symmetry
+   - Visualizing Solid Shapes
+4. **Data Handling:**
+   - Collection and Organization of Data
+   - Pictographs, Bar Graphs, and Pie Charts
+   - Probability
+
+**Science:**
+1. **Nutrition in Plants and Animals:**
+   - Photosynthesis
+   - Digestion and Absorption
+   - Respiration in Organisms
+2. **Heat:**
+   - Heat and Temperature
+   - Effects of Heat
+   - Natural Phenomena related to Heat (Winds, Cyclones)
+3. **Motion and Time:**
+   - Types of Motion
+   - Measurement of Time
+   - Speed and Distance
+4. **Electricity and Magnetism:**
+   - Electric Current and its Effects
+   - Magnetic Effects of Electric Current
+   - Electromagnets
+5. **Natural Resources:**
+   - Conservation of Natural Resources
+   - Forests and Wildlife
+   - Pollution of Air and Water
+
+**Social Science:**
+1. **History:**
+   - Tracing Changes through a Thousand Years
+   - New Kings and Kingdoms
+   - The Delhi Sultans
+   - The Mughal Empire
+   - Rulers and Buildings
+   - Towns, Traders, and Craftspersons
+2. **Civics:**
+   - Equality
+   - Role of the Government in Health
+   - Role of the Government in Education
+   - Markets Around Us
+   - A Shirt in the Market
+3. **Geography:**
+   - Environment
+   - Inside Our Earth
+   - Our Changing Earth
+   - Air
+   - Water
+
+
+**Class 7:**
+
+**Math:**
+1. Number System
+   - Knowing our Numbers
+   - Fractions and rational numbers
+   - Powers
+
+2. Algebra
+   - Algebraic Expressions
+
+3. Ratio and Proportion
+   - Ratio and Proportion
+
+4. Geometry
+   - Understanding shapes
+   - Properties of triangles
+   - Symmetry
+   - Representing 3-D in 2-D
+   - Congruence
+   - Construction (Using scale, protractor, compass)
+
+5. Mensuration
+   - Area
+
+6. Data Handling
+   - Data Handling
+
+**Science:**
+1. Food
+   - Food from where
+   - Utilization of food
+
+2. Materials
+   - Materials of daily use
+   - Different kinds of materials
+   - How things change/react with one another
+
+3. The World of the Living
+   - Surroundings affect the living
+   - The breath of life
+   - Movement of substances
+   - Multiplication in plants
+
+4. Things, People, and Ideas
+   - Moving objects
+
+5. How Things Work
+   - Electric current and circuits
+
+6. Natural Phenomena
+   - Rain, thunder, and lightning
+   - Light
+
+7. Natural Resources
+   - Scarcity of water
+   - Forest products
+   - Waste Management
+
+**Social Science:**
+1. History
+   - Where, When and How
+   - New Kings and Kingdoms
+   - The Sultans of Delhi
+   - The Creation of An Empire
+   - Architecture as Power: Forts and Sacred Places
+   - Towns, Traders and Craftsmen
+   - Social Change: Mobile and settled communities
+   - Popular Beliefs and Religious Debates
+   - The Flowering of Regional Cultures
+   - New Political Formations in the Eighteenth Century
+
+2. Social and Political Life
+   - Democracy
+   - State Government
+   - Understanding Media
+   - Unpacking Gender
+   - Markets Around Us
+
+3. Geography
+   - Environment in its totality
+   - Natural Environment
+      - Air
+      - Water
+      - Natural vegetation and wildlife
+   - Human Environment
+      - Human–Environment Interaction
+
+**Class 8:**
+
+**Math:**
+1. Number System
+   - Rational Numbers
+   - Powers (Squares, Square roots, Cubes, Cube roots, Playing with numbers)
+
+2. Algebra
+   - Algebraic Expressions
+
+3. Ratio and Proportion
+   - Ratio and Proportion
+
+4. Geometry
+   - Understanding shapes
+   - Representing 3-D in 2-D
+   - Construction
+
+5. Mensuration
+   - Mensuration
+
+6. Data Handling
+   - Data Handling
+
+7. Introduction to Graphs
+   - Introduction to Graphs
+
+**Science:**
+1. Food
+   - Crop production
+   - Micro-organisms
+
+2. Materials
+   - Materials in daily life
+   - Different kinds of materials and their reactions
+   - How things change/react with one another
+
+3. The World of the Living
+   - Why Conserve
+   - The Cell
+   - How Babies are formed
+
+4. Moving Things, People, and Ideas
+   - Idea of Force
+   - Friction
+   - Pressure
+   - Sound
+
+5. How Things Work
+   - Electric Current and Circuits
+
+6. Natural Phenomena
+   - Rain, Thunder and Lightning
+   - Light
+   - Night Sky
+   - Earthquakes
+
+7. Natural Resources
+   - Man’s intervention in phenomena of nature
+   - Pollution of air and water
+
+**Social Science:**
+1. History
+   - Where, When, How
+   - The Establishment of Company Power
+   - Rural Life and Society
+   - Colonialism and Tribal Societies
+   - Crafts and Industries
+   - The Revolt of 1857-58
+   - Education and British rule
+   - Women and reform
+   - Challenging the Caste System
+   - Colonialism and Urban Change
+   - Changes in the Arts: Painting, Literature, Architecture
+   - The Nationalist Movement
+   - India after Independence
+
+2. Social and Political Life
+   - The Constitution
+   - Parliamentary Government
+   - The Judiciary
+   - Social Justice and the Marginalized
+   - Economic Presence of the Government
+
+3. Resources and Development
+   - Resources
+   - Natural resources
+   - Agriculture
+   - Industries
+   - Human Resources
+
+**Class 9:**
+
+**Math:**
+1. Number System
+   - Real Numbers
+
+2. Algebra
+   - Polynomials
+   - Linear Equations in Two Variables
+
+3. Coordinate Geometry
+   - Coordinate Geometry
+
+4. Geometry
+   - Introduction to Elucid’s Geometry
+   - Lines and Angles
+   - Triangles
+   - Quadrilaterals
+   - Circles
+
+5. Mensuration
+   - Areas
+   - Surface areas and volumes
+
+6. Statistics
+   - Statistics
+
+**Science:**
+1. Matter – Its Nature and Behaviour
+   - Nature of Matter
+   - Particle Nature and Their Basic Units
+   - Structure of Atoms
+
+2. Organization in the Living World
+   - Basic Unit of Life
+   - Tissues, Organs, Organ System, Organism
+
+3. Motion, Force, and Work
+   - Motion
+   - Force and Newton’s laws
+   - Gravitation
+   - Floatation
+   - Work, Energy, and Power
+   - Sound
+
+4. Food Production
+   - Food Production
+
+**Social Science:**
+1. History (India and the Contemporary World-I)
+   - The French Revolution
+   - Socialism in Europe and the Russian Revolution
+   - Nazism and the Rise of Hitler
+   - Forest, Society, and Colonialism
+   - Pastoralists in the Modern World
+   - Interdisciplinary project as part of multiple assessments (Internally assessed for 5 marks)
+   - Colonialism and Urban Change
+   - Changes in the Arts: Painting, Literature, Architecture
+   - The Nationalist Movement
+   - India after Independence
+
+2. Political Science (Democratic Politics – I)
+   - What is Democracy? & Why Democracy?
+   - Constitutional Design
+   - Electoral Politics
+   - Working of Institutions
+   - Democratic Rights
+
+3. Geography (Contemporary India – I)
+   - India – Size and Location
+   - Physical Features of India
+   - Drainage
+   - Climate
+   - Natural Vegetation and Wildlife (Only map pointing to be evaluated in the annual examination.)
+   - Interdisciplinary project as part of multiple assessments (Internally assessed for 5 marks)
+   - Population
+
+**Information Technology:**
+- Unit 1 – Communication Skills-I
+- Unit 2 – Self-Management Skills-I
+- Unit 3 – ICT Skills-I
+- Unit 4 – Entrepreneurial Skills-I
+- Unit 5 – Green Skills-I
+- PART B: Subject-Specific Skills
+   - Unit 1 – Introduction to IT-ITeS Industry
+   - Unit 2 – Data Entry & Keyboarding Skills
+   - Unit 3 – Digital Documentation
+   - Unit 
+
+4 – Electronic Spreadsheet
+   - Unit 5 – Digital Presentation
+- Artificial Intelligence
+   - Introduction to Artificial Intelligence (AI)
+      - Excite
+      - Relate
+      - Purpose
+      - Possibilities
+      - AI Ethics
+   - AI Project Cycle
+      - Problem Scoping
+      - Data Acquisition
+      - Data Exploration
+      - Modeling
+   - Neural Network
+      - Understand and appreciate the concept of Neural Network through gamification.
+   - Introduction to Python
+      - Introduction to Python
+
+**Class 10:**
+
+**Math:**
+1. Number Systems
+   - Real Number
+
+2. Algebra
+   - Polynomials
+   - Pair of Linear Equations in Two Variables
+   - Quadratic Equations
+   - Arithmetic Progressions
+
+3. Coordinate Geometry
+   - Coordinate Geometry
+
+4. Geometry
+   - Triangles
+   - Circles
+
+5. Trigonometry
+   - Introduction to Trigonometry
+   - Trigonometric Identities
+   - Heights and Distances
+
+6. Mensuration
+   - Areas Related to Circles
+   - Surface Areas and Volumes
+
+7. Statistics and Probability
+   - Statistics
+   - Probability
+
+**Science:**
+1. Chemical Substances – Nature and Behaviour
+   - Chemical Reactions
+   - Acids, Bases and Salts
+   - Metals and Non-metals
+   - Carbon Compounds
+
+2. World of Living
+   - Life Processes
+   - Control and Co-ordination in Animals and Plants
+   - Reproduction
+   - Heredity and Evolution
+
+3. Natural Phenomena
+   - Reflection of Light by Curved Surfaces
+   - Refraction
+   - Refraction of Light by Spherical Lens
+   - Refraction of Light Through a Prism
+
+4. Effects of Current
+   - Electric Current, Potential Difference, and Electric Current
+   - Magnetic Effects of Current
+
+5. Natural Resources
+   - Our Environment
+
+**Social Science:**
+1. History (India and the Contemporary World – II)
+   - The Rise of Nationalism in Europe
+   - Nationalism In India
+   - The Making of a Global World
+   - The Age of Industrialization
+   - Print Culture and the Modern World
+
+2. Geography (Contemporary India – II)
+   - Resources and Development
+   - Forest and Wildlife Resources
+   - Water Resources
+   - Agriculture
+   - Minerals and Energy Resources
+   - Manufacturing Industries
+   - Lifelines of National Economy
+
+3. Political Science (Democratic Politics – II)
+   - Power – sharing
+   - Federalism
+   - Gender, Religion, and Caste
+   - Political Parties
+   - Outcomes of Democracy
+
+4. Understanding Economic Development
+   - Development
+   - Sectors of the Indian Economy
+   - Money and Credit
+   - Globalisation and The Indian Economy
+   - Consumer Rights (Project Work)
+
+**Information Technology:**
+- PART A: Employability Skills
+   - Unit 1 – Communication Skills-II
+   - Unit 2 – Self-Management Skills-II
+   - Unit 3 – ICT Skills-II
+   - Unit 4 – Entrepreneurial Skills-II
+   - Unit 5 – Green Skills-II
+- PART B: Subject Specific Skills
+   - Unit 1 – Digital Documentation (Advanced)
+   - Unit 2 – Electronic Spreadsheet (Advanced)
+   - Unit 3 – Database Management System
+   - Unit 4 – Web Applications and Security
+
+
+
+
+state board 
+class 6 
+
+
+
+Mathematics 
+Sl. No.	Topic name
+1	Divisibility
+2	The Use of Letters in Place of Numbers
+3	Order of Operations and the Use of Brackets
+4	Point, Line, Plane
+5	Angles
+6	Pairs of Angles
+7	Indices
+8	Natural Numbers and Whole Numbers
+9	Decimal Fractions – Division
+10	Squares and Square Roots
+11	Ratio and Proportion
+12	Perimeter
+13	Profit and Loss
+14	Integers
+15	Equations in One Variable
+16	Algebraic Expressions
+17	Simple Interest
+18	Percentage
+19	Triangles
+20	Properties of Triangles
+21	Geometric Constructions
+22	Area
+23	Bar Graphs
+24	Volume
+25	Circle
+ 
+
+ Science Syllabus 
+Sl. No.	Topic name
+1	Our Natural Resources
+2	Diversity in Living Things and their Classification
+3	Disaster Management
+4	The Living World
+5	Substances in Daily Use
+6	Substances in the Surroundings – Their States and Properties
+7	Nutrition and Diet
+8	Our Skeletal System and the Skin
+9	Motion and Types of Motion
+10	Characteristics and Classification of Living Things
+11	Parts of Plants and their Structure
+12	Force and Types of Force
+13	Work and Energy
+14	Simple Machines
+15	Measurement & Estimates of Measurements
+16	Sound
+17	Methods of Separating Substances
+18	Organ Systems
+19	Our Environment
+20	Our Earth and its Special Features
+21	Social Environment
+ 
+
+Social Science 
+History 
+Sl No	Chapter Names
+1	The Indian Subcontinent and History
+2	Sources of History
+3	The Harappan Civilization
+4	The Vedic Civilization
+5	Religious Trends in Ancient India
+6	Janapadas and Mahajanapadas
+7	India during the Maurya Period
+8	States after the Maurya Empire
+9	Ancient Kingdoms of the South
+10	Ancient India : Cultural
+11	Ancient India and the World
+Social Science 
+Civics Syllabus
+1	Our Life in Society
+2	Diversity in Society
+3	Rural Local Government Bodies
+4	Urban Local Government Bodies
+5	District Administration
+Social Science Geography 
+
+1	The Earth and the Graticule
+2	Let us Use the Graticule
+3	Comparing a Globe and a Map; Field Visits
+4	Weather and Climate
+5	Temperature
+6	Importance of Oceans
+7	Rocks and Rock Types
+8	Natural Resources
+9	Energy Resources
+10	Human Occupations
+
+
+class 7 
+
+ Science Syllabus
+Sl. No.	Topic Name
+1	Natural Resources
+2	Water – A Natural Resource
+3	Food and Protection of Food
+4	Properties of Water
+5	Acids, Bases and Salts
+6	Control and Co-ordination
+7	Health and Disease
+8	Food and Nutrition
+9	Circulation of Blood
+10	Reproduction in Living Things
+11	The Organisation of Living Things
+12	Electric Charge
+13	Sound – Production of Sound
+14	Propagation of Sound
+15	Classification of Substances
+16	Transmission of Heat
+17	Effects of Heat
+18	Propagation of Light
+ 
+ Maths Syllabus
+Sl. No.	Topic Name
+1	Indices
+2	Variation
+3	Averages
+4	Properties of Triangles
+5	Theorem of Pythagoras
+6	Construction of Triangles
+7	Equations in One Variable
+8	Product Of Algebraic Expressions
+9	Factors of Algebraic Expressions
+10	Quadrilaterals
+11	Types of Quadrilaterals
+12	Construction of Quadrilaterals
+13	Rational Numbers
+14	Operations on Rational Numbers
+15	Simple Interest
+16	Profit and Loss
+17	Area
+18	Factors of Algebraic Expressions
+19	Identity
+20	Circle
+21	Congruence
+22	Volume and Surface Area
+23	Joint Bar Graphs
+ 
+
+Social Science History Syllabus 
+Sl No	Chapter Names
+1	Sources of History.
+2	India before the Times of Shivaji Maharaj
+3	Religious Synthesis
+4	Maharashtra before the Times of Shivaji Maharaj
+5	The Foundation of the Swaraj
+6	Conflict with the Mughals
+7	The Administration of the Swaraj
+8	An Ideal Ruler
+9	The Maratha War of Independence
+10	The Expansion of the Maratha Power
+11	Marathas – The Protectors of the Nation
+12	Progression of the Empire
+13	Life of the People in Maharashtra
+
+Social Science Civics Syllabus 
+
+1	Introduction to our Constitution.
+2	Preamble to the Constitution
+3	Features of the Constitution
+4	Fundamental Rights – Part I
+5	Fundamental Rights – Part II
+6	Directive Principles of State Policy and Fundamental Duties
+
+Social Science Geography Syllabus 
+1	How Seasons Occur – Part 1
+2	The Sun, the Moon and the Earth
+3	Tides
+4	Air Pressure
+5	Winds
+6	Natural Regions
+7	Soils
+8	How Seasons Occur – Part 2
+9	Agriculture
+10	Human Settlement
+11	Contour Maps and Landforms
+
+class 8
+
+Mathematics Syllabus 
+Sl. No.	Topic name
+1	Irrational and Real Numbers
+2	Square and Square Root
+3	Quadrilateral
+4	Parallel Lines
+5	Area
+6	The Circle
+7	The Circumference and Area Of A Circle
+8	Statistics
+9	Identities
+10	Variation and Proportion
+11	Equations in One Variable
+12	Indices
+13	Cubes and Cube Roots
+14	Construction of Quadrilaterals
+15	Arc of a Circle
+16	Compound Interest
+17	Polynomials
+18	Joint Bar Graphs
+19	Discount and Commission
+20	Volume and Surface Area
+21	Factors of polynomials
+22	Division of Polynomials
+ 
+
+General Science Syllabus 
+Sl. No.	Topic name
+1	Living World and Classification of Microbes
+2	Health and Diseases
+3	Force and Pressure
+4	Current Electricity and Magnetism
+5	Inside the Atom
+6	Composition of Matter
+7	Metals and Nonmetals
+8	Pollution
+9	Disaster Management
+10	Cell and Cell Organelles
+11	Human Body and Organ System
+12	Introduction to Acid and Base
+13	Chemical Change and Chemical Bond
+14	Measurement and Effects of Heat
+15	Sound
+16	Reflection of Light
+17	Man made Materials
+18	Ecosystems
+19	Life Cycle of Stars
+ 
+
+Social Science History Syllabus 
+Sl No	Chapter Names
+1	Sources of History
+2	Europe and India
+3	Effects of British rule
+4	The Freedom Struggle of 1857
+5	Social and Religious Reforms
+6	Beginning of Freedom Movement
+7	Non-co-operation Movement
+8	Civil Disobedience Movement
+9	Last Phase of Struggle for Independence
+10	Armed Revolutionary Movement
+11	Struggle for Equality
+12	India gains Independence
+13	Fulfillment of Struggle for Independence
+14	Formation of State of Maharashtra
+
+Social Science Civics Syllabus 
+
+1	Introduction to the Parliamentary System.
+2	The Indian Parliament
+3	The Union Executive
+4	The Indian Judicial System
+5	The State Government
+6	Bureaucracy
+Social Science Geography Syllabus 
+
+1	Local Time and Standard Time
+2	Interior of the Earth
+3	Humidity and Clouds
+4	Structure of Ocean Floor
+5	Ocean Currents
+6	Land Use
+7	Population
+8	Industries
+9	Map Scale
+10	Field Visit
+
+class 9
+
+math
+
+1	Lines and Angles
+2	Triangles
+3	Circle
+4	Quadrilaterals
+5	Coordinate Geometry
+6	Geometric Constructions
+7	Trigonometry
+8	Mensuration
+9	Sets
+10	Real Numbers
+11	Algebraic Expressions
+12	Linear Equations in Two Variables
+13	Graphs
+14	Ratio, Proportion and Variation
+15	Statistics
+
+
+science
+1	Laws of Motion
+2	Work and Energy
+3	Current Electricity
+4	Measurement of Matter
+5	Acids. Bases, and Salts
+6	Classification of Plants
+7	Energy Flow in an Ecosystem
+8	Useful and Harmful Microbes
+9	Environmental Management
+10	Information Communication Technology
+11	Reflection of Light
+12	Study of Sound
+13	Carbon: An Important Element
+14	Substances in Common Use
+15	Life Processes in Living Organisms
+16	Hereditary and Variation
+17	Introduction to Biotechnology
+18	Observing Space: Telescopes
+
+History
+Ancient and Medieval Civilization
+Renaissance and Feudalism
+Age of Revolution
+
+
+
+Political Science
+
+Introduction to Political Science
+Making of the Constitution
+Fundamental Rights and Duties
+Electoral Process
+	
+Geography	
+Concept of a Region
+Natural Resources
+Occupation
+Agriculture
+Industries
+Transportation, Communication and Tourism
+Population
+Regional Development
+Practical Geography
+Introduction of Economics
+Basic Concepts of Economics
+Sources of Income
+Family Budget
+
+
+class 10 
+
+math 
+
+Arithmetic Progression	
+Quadratic Equations	
+Linear equations in two variables	
+Probability	
+Statistics	
+Similarity	
+Circles	
+Coordinate Geometry	
+Geometric Constructions	
+Trigonometry	
+Mensuration
+
+science
+
+Materials	
+Acids and Bases
+Chemical Reactions
+Oxidation and Reduction
+Metals and Non-metals
+Carbon Compounds
+Common Chemicals used in Daily life
+Classification of Elements
+The World of the Living	
+Life Processes
+Control in the Living
+Reproduction in the Living
+Heredity and Evolution
+Moving Things	
+Electric Circuits
+Magnets
+Natural Phenomena	
+Light
+Spherical Mirrors
+Refraction
+Lenses
+Pollution	
+Types of Pollution
+Sources of Pollution and Major Pollutants
+Effect of Pollution on the Environment
+Abatement of Pollution
+Striving for a Better Environment
+
+History	
+
+Imperialism	
+Geographical discoveries and colonisation
+Asia: India, China, Japan
+Africa
+20th Century Age of conflict	
+First world war
+Russian Revolution
+The League of Nations
+Dictatorships in Europe, Second World War and world
+United Nations Organization
+Emancipation of Asia and Africa	
+Asia
+Africa
+The world after World War II	
+Cold war
+Scientific and Technological Progress
+Globalization
+
+Geography	
+Physical Divisions of India	
+North Indian Mountains	
+North Indian Plain Region	
+Peninsular Plateau Region	
+The Western Ghats and the Eastern Ghats	Sahyadris, Eastern Ghats
+Coastal Region	
+Indian Islands	
+
+
+Political Science	
+Democracy Meaning, Types and Characteristics
+Political Parties and Types Meaning, Need, Types of Political Parties – National and Regional.
+Social Diversity and Democracy, What is Social Diversity?
+Caste/race and Democracy
+Language and Democracy
+Religion and Democracy
+Gender and Democracy
+Challenges to Democracy, Remedial Measures to the Challenges
+Internal work
+
+Economics	
+Introduction of an Economy-
+What is an economy? Types of Economy, Main features of Economy.
+Basic problems of an economic solution.
+Public distribution system & consumer protection- 
+Introduction, Public Distribution system – meaning & explanation, Objectives of P.D.S., Progress of P.D.S., Drawbacks of P.D.S., Remedial Measures, Consumer Protection – Rights & duties of consumer, food adulteration.
+
+
+class 11
+
+math 
+
+1	Angle and Its Measurement
+2	Trigonometry – I
+3	Trigonometry – II
+4	Determinants and Matrices
+5	Probability
+6	Complex Numbers
+7	Sequences and Series
+8	Permutation and Combinations
+9	Method of Induction and Binomial Theorem
+10	Sets and Relations
+11	Straight Line
+12	Circle
+13	Conic Sections
+14	Measures of Dispersion
+15	Functions
+16	Limits
+17	Continuity
+18	Differentiation
+
+physics 
+
+1	Units and Measurements
+2	Mathematical Methods
+3	Motion in a Plane
+4	Laws of Motion
+5	Gravitation
+6	Mechanical Properties of Solids
+7	Thermal Properties of Matter
+8	Sound
+9	Optics
+10	Electrostatics
+11	Electric Current Through Conductors
+12	Magnetism
+13	Electromagnetic Waves and Communication System
+14	Semiconductors
+
+chemistry 
+
+1	Some Basic Concepts of Chemistry
+2	Structure of Atom
+3	Redox Reactions
+4	States of Matter: Gaseous and Liquid States
+5	Adsorption and colloids
+6	Chemical Equilibrium
+7	Nuclear Chemistry and Radioactivity
+8	Introduction to Analytical Chemistry
+9	Basic Analytical Techniques
+10	Chemical Bonding
+11	Modern Periodic Table
+12	Elements of Group 1 and Group 2
+13	Elements of Groups 13,14 and 15
+14	Basic Principles of Organic Chemistry
+15	Hydrocarbons
+16	Chemistry in Everyday Life
+
+biology
+
+1	Living World
+2	Systematics of Living Organisms
+3	Kingdom Plantae
+4	Kingdom Animalia
+5	Cell Structure and Organization
+6	Biomolecules
+7	Cell Division
+8	Plant Tissue and Anatomy
+9	Morphology of Flowering Plants
+10	Animal Tissue
+11	Study of Animal Type : Cockroach
+12	Human Nutrition
+13	Respiration and Energy Transfer
+14	Excretion and Osmoregulation
+15	Skeleton and Movement
+
+
+class 12
+
+math 
+Chapter No.	Chapter Name
+1	Mathematical Logic
+2	Matrices
+3	Linear Programming
+4	Probability Distributions
+5	Binomial Distribution
+6	Trigonometric Functions
+7	Pair of Straight Lines
+8	Vectors
+9	Line and Plane
+10	Differentiation
+11	Applications of Derivatives
+12	Indefinite Integration
+13	Definite Integration
+14	Application of Definite Integration
+15	Differential Equations
+
+
+physics
+
+1	Rotational Dynamics
+2	Mechanical Properties of Fluids
+3	Elasticity
+4	Superposition of Waves
+5	Oscillations
+6	Wave Motion
+7	Wave Optics
+8	Interference and Diffraction
+9	Thermodynamics
+10	Kinetic Theory of Gases and Radiation
+11	Dual Nature of Matter and Radiation
+12	Structure of Atoms and Nuclei
+13	Semiconductor Devices
+14	Communication Systems
+15	Electrostatics
+16	Magnetic Fields due to Electric Current
+17	Electromagnetic Induction
+18	Current Electricity
+19	Magnetic Materials
+20	AC Circuits
+
+chemisty
+
+1	Solid state
+2	Solutions
+3	Chemical Thermodynamics
+4	Ionic Equilibria
+5	Electrochemistry
+6	Chemical Kinetics
+7	Elements of Groups 16, 17 and 18
+8	Transition and Inner Transition Elements
+9	Coordination Compounds
+10	Halogen Derivatives
+11	Alcohols, Phenols and Ethers
+12	Aldehydes, Ketones and Carboxylic Acids
+13	Amines
+14	Biomolecules
+15	Introduction to Polymer Chemistry
+16	Green Chemistry and Nanochemistry
+
+biology
+1	Inheritance and Variation
+2	Molecular Basis of Inheritance
+3	Origin and Evolution of Life
+4	Plant Water Relation
+5	Plant Growth and Mineral Nutrition
+6	Respiration and Circulation
+7	Reproduction in Lower and Higher Plants
+8	Reproduction in Lower and Higher Animals
+9	Biotechnology
+10	Enhancement of Food Production
+11	Human Health and Diseases
+12	Ecosystems and Energy Flow
+13	Biodiversity, Conservation and Environmental Issues
+14	Organisms and Populations
+15	Respiration and Circulation
+16	Control and Co-ordination
+
+
+
+
+
+icse 
+
+class 6 
+
+math unti 1 Number System
+Numbers:
+Theme 1Natural numbers and Whole numbers
+ Theme3 algebra 
+Theme4 geomatry 
+Theme5 mensuration 
+Theme6 data hadling 
+
+physics 
+Theme1 matter 
+Theme 2 Physical Quantities and Measurement
+Theme 3 Force
+Theme 4: Energy
+Theme 5: Light
+Theme 6: Magnetism
+
+
+chemistry 
+Theme 1: Introduction to Chemistry Elements
+Theme 2: Elements, Compounds and Mixtures
+Theme 3: Matter
+Theme 4: Water
+Theme 5: Air and Atmosphere
+
+biology 
+Theme 1: Plant Life
+Theme 2: The Cell
+Theme 3: Human Body
+Theme 4: Health and Hygiene
+Theme 5: Adaptation
+
+geography 
+Theme 1: Representation of Geographical Features
+Theme 2: Landforms
+Theme 3: Water Bodies
+Theme 4: Agriculture
+Theme 5: Minerals
+Theme 6: Study of Continents: North America and South America
+
+History
+Theme 1: The River Valley Civilizations
+Theme 2: The Vedic Civilization
+Theme 3: Mahavira & Buddha – Great Preachers
+Theme 4: Rise of Kingdoms & Republicans
+Theme 5: The Mauryan Empire
+Theme 5: The Golden Age – Gupta Empire
+
+civis 
+Theme 1: The Rural Local Self Government
+Theme 2: Urban Local Self Governmen
+
+
+
+class 7 
+
+math 
+Theme 1: Number System
+Theme 2: Ratio and Proportion
+Theme 3: Algebra
+Theme 4: Geometry
+Theme 5: Mensuration
+Theme 6: Data Handling
+
+physics 
+Theme 1: Physical Quantities and Measurement
+Theme 2: Force and Pressure: Motion
+Theme 3: Energy
+Theme 4: Light Energy
+Theme 5: Heat
+Theme 6: Sound
+Theme 7: Electricity and Magnetism
+
+chemistry 
+Theme 1: Matter and its Composition
+Theme 2: Physical and Chemical Changes
+Theme 3: Elements, Compounds and Mixtures (experimental techniques)
+Theme 4: Atomic Structure
+Theme 5: Language of Chemistry
+Theme 6: Metals and Non-Metals
+Theme 7: Air and Atmosphere
+
+biology 
+Theme 1: Tissue
+Theme 2: Kingdom Classification
+Theme 3: Plant Life
+Theme 4: Human Body
+Theme 5: Health and Hygiene
+
+
+geography
+Theme 1: Representation of Geographical Features
+Theme 2: Atmosphere
+Theme 3: Weather and Climate
+Theme 4: Weathering and Soil formation
+Theme 5: Industries
+Theme 6: Energy and Power Resources
+Theme 7: Study of Continents: Europe, Africa, Australia and Antarctica
+
+history 
+Theme 1: Medieval Europe – Rise and Spread of Christianity
+Theme 2: Rise and Spread of Islam
+Theme 3: The Delhi Sultanate
+Theme 4: The Vijayanagar and Bahamani Kingdoms
+Theme 5: The Mughal Empire
+Theme 6: Making of Composite Culture
+
+civis 
+Theme 1: The Constitution of India
+Theme 2: Directive Principles of State Policy
+
+
+class 8 
+math 
+Theme 1: Number System
+Theme 2: Ratio and Proportion
+Theme 3: Algebra
+Theme 4: Geometry
+Theme 5: Mensuration
+Theme 6: Data Handling
+
+
+physics 
+Theme 1: Matter
+Theme 2: Physical Quantities and Measurement
+Theme 3: Force and Pressure
+Theme 4: Energy
+Theme 5: Light Energy
+Theme 6: Heat Transfer
+Theme 7: Sound
+Theme 8: Electricity
+
+
+chemistry
+Theme 1: Matter
+Theme 2: Physical and Chemical Changes
+Theme 3: Elements, Compounds and Mixtures
+Theme 4: Atomic Structure
+Theme 5: Language of Chemistry
+Theme 6: Chemical Reactions
+Theme 7: Hydrogen
+Theme 8: Water
+Theme 9: Carbon and its Compounds
+
+biology 
+Theme 1: Transport of Food and Minerals in Plants
+Theme 2: Reproduction in Plant and Animals
+Theme 3: Ecosystems
+Theme 4: Human Body – Endocrine, Circulatory and Nervous System
+Theme 5: Health and Hygiene
+
+geography
+Theme 1: Representation of Geographical Features
+Theme 2: Population Dynamics
+Theme 3: Migration
+Theme 4: Urbanisation
+Theme 5: Natural and Man-made Disasters
+Theme 6: Asia – The Largest Continent
+Theme 7: India – Geographical Features
+Theme 8: India: Human Resources
+
+history 
+Theme 1: A Period of Transition
+Theme 2: The Growth of Nationalism
+Theme 3: India in the 18th Century
+Theme 4: Traders to Rulers
+Theme 5: British Policies and Impacts
+Theme 6: The Great Uprising of 1857
+Theme 7: Socio-Religious Reforms
+
+
+civis
+Theme 1: The three main organs of the Indian Government: Legislature, Executive, Judiciary
+Theme 2: United Nations
+
+
+class 9 
+math 
+Pure Arithmetic
+Commercial Mathematics
+	Algebra
+Geometry
+Statistics
+Mensuration
+Trigonometry
+Co-ordinate Geomety
+
+chemistry 
+1. The Language of Chemistry
+2. Chemical Changes and Reactions
+3. Water
+4. Atomic Structure and Chemical Bonding
+5. The Periodic Table
+6. Study of the First Element – Hydrogen
+7. Study of Gas Laws
+8. Atmospheric Pollution
+
+
+
+physics
+
+1.	Measurements and Experimentation
+2.	Motion in One Dimension
+3.	Laws of Motion
+4.	Fluids	
+5.	Heat and Energy
+7.	Sound
+6.	Light
+8.	Electricity and Magnetis
+
+biology
+1.	Basic Biolog
+2.	Flowering Plants
+3.	Plant Physiology
+4.	Diversity in Living Organisms
+5.	Human Anatomy and Physiology
+6.	Health and Hygiene
+7.	Waste Generation and Management
+
+
+history 
+1. The Harappan Civilisation
+2. The Vedic Period
+3. Jainism and Buddhism
+4. The Mauryan Empire
+5. The Sangam Age
+6. The Age of the Guptas
+7. Medieval India
+8. The Modern Age in Europe
+
+geography
+1. Our World
+2. Structure of the Earth
+3. Hydrosphere
+. Atmosphere
+5. Pollution
+6. Natural Regions of the World
+
+economics 
+1. Introduction to Economics
+2. Types of Economies
+3. Problems of an Economy
+4.The Indian Economy: A Study
+5. Major Problems of the Indian Economy
+6. Major Reforms and Emerging Trends in the Indian Economy
+
+computer appications 
+1. Introduction to Object Oriented Programming
+concepts
+2. Elementary Concept of Objects and Classes
+3. Values and data types
+4. Operators in Java
+5. Input in Java
+6. Mathematical Library Methods
+7. Conditional constructs in Java
+8. Iterative constructs in Java
+
+ECONOMIC APPLICATIONS
+1. Basic Concepts of Economics
+2. Infrastructure of the Indian Economy
+3. Consumer Awareness
+4. Globalization
+
+COMMERCIAL APPLICATIONS
+1. Introduction to Commercial Organisations
+2. Functioning of a Commercial Organisation
+3. Business Communication
+4. Mechanics and Terminology of Accounting
+Systems
+
+
+
+class 10 
+physics
+1. Force, Work, Power and Energy
+2. Light
+3. Sound
+4. Electricity and Magnetism
+5. Heat
+6. Modern Physics
+
+chemistry 
+1. Periodic Properties and Variations of Properties – Physical and Chemical
+2. Chemical Bonding
+3. Study of Acids, Bases and Salts
+4. Analytical Chemistry
+5. Mole Concept and Stoichiometry
+6. Electrolysis
+7. Metallurgy
+8. Study of Compounds
+9. Organic Chemistry
+
+math 
+1. Commercial Mathematics
+2. Algebra
+3. Geometry
+4. Mensuration
+5. Trigonometry
+6. Statistics
+7. Probability
+
+biology 
+1. Basic Biology
+2. Plant Physiology
+3. Human Anatomy and Physiology
+4. Population
+5. Human Evolution
+6. Pollution
+
+history 
+1. The Indian National Movement (1857 – 1917)
+2. Mass Phase of the National Movement (1915-1947)
+3. The Contemporary World
+
+georaphy
+1. Interpretation of Topographical Maps
+2. Map of India
+3. Location, Extent and Physical features
+4. Climate
+5. Soil Resources
+6. Natural Vegetation
+7. Water Resources
+8. Mineral and Energy Resources
+9. Agriculture
+10. Manufacturing Industries
+11. Transport
+12. Waste Management
+
+economics 
+1. The Productive Mechanism
+2. Theory of Demand and Supply
+3. Market
+4. Banking in India
+5. Inflation
+6. Consumer Awareness
+
+computer science 
+Introduction to Object Oriented Programming
+concepts
+2. Elementary Concept of Objects and Classes
+3. Values and data types
+4. Operators in Java
+5. Input in Java
+6. Mathematical Library Methods
+7. Conditional constructs in Java
+8. Iterative constructs in Java
+
+economics 
+1. Basic Concepts of Economics
+2. Infrastructure of the Indian Economy
+3. Consumer Awareness
+4. Globalization
+
+COMMERCIAL APPLICATIONS
+1. Understanding the basics of Markets and Marketing
+2. Understanding Finance
+3. Understanding Human Resources
+4. Development of Public Relations
+
+class 11 
+chemistry 
+1	Some Basic Concepts of Chemistry	Physical Chemistry
+
+
+2	Structure of Atom
+3	Classification of Elements and Periodicity in Properties
+4	Chemical Bonding and Molecular Structure
+5	States of Matter: Gases and Liquids
+6	Chemical Thermodynamics
+7	Equilibrium
+8	Redox Reactions	Inorganic Chemistry
+
+
+9	Hydrogen
+10	s -Block Elements
+11	Some p -Block Elements
+12	Organic Chemistry: Some Basic Principles and Techniques	Organic Chemistry
+
+
+13	Hydrocarbons
+14	Environmental Chemistry
+
+
+biology 
+
+1	Diversity of Living Organisms	
+2	Structural Organisation in Animals and Plants	
+3	Cell: Structure and Function	
+4	Plant Physiology	
+5	Human Physiology
+
+
+physics
+1.	Physical World and Measurement	 
+23 Marks
+
+2.	Kinematics
+3.	Laws of Motion
+4.	Work, Energy and Power	
+5.	Motion of System of Particles and Rigid Body
+6.	Gravitation
+7.	Properties of Bulk Matter	
+8.	Heat and Thermodynamics
+9.	Behaviour of Perfect Gases and Kinetic Theory of Gases
+10.	Oscillations and Waves
+
+math 
+1.	Sets and Functions	
+2.	Algebra	24 Marks
+3.	Coordinate Geometry	
+4.	Calculus
+5.	Statistics & Probability
+6.	Conic Section	 
+7.	Introduction to Three-dimensional Geometry	
+8.	Mathematical Reasoning
+9.	Statistics
+10.	Correlation Analysis	
+11.	Index Numbers and Moving Averages
+
+economis 
+1. Understanding Economics
+2. Indian Economic Development
+3. Statistics
+1. Business Environment
+Managers and Managerial Roles
+Automation at Workplaces
+
+
+
+class 12 
+ chemistry 
+1.	Solid State	Physical Chemistry
+
+
+2.	Solutions
+3.	Electrochemistry
+4.	Chemical Kinetics
+5.	Surface Chemistry
+6.	General Principles and Processes of Isolation of Elements	Inorganic Chemistry
+
+
+7.	p-Block Elements
+8.	d and f Block Elements
+9.	Coordination Compounds
+10.	Haloalkanes and Haloarenes	Organic Chemistry
+
+
+11.	Alcohols, Phenols and Ethers
+12.	Aldehydes, Ketones and Carboxylic Acids
+13.	Organic Compounds Containing Nitrogen
+14.	Biomolecules
+15.	Polymers
+16.	Chemistry in Everyday Life
+
+physics 
+1. Electrostatics
+2. Current Electricity
+3. Magnetic Effects of Current and Magnetism
+4. Electromagnetic Induction and Alternating Currents
+5. Electromagnetic Waves
+6. Optics
+7. Dual Nature of Radiation and Matter
+8. Atoms and Nuclei
+9. Electronic Devices
+10. Communication Systems
+
+
+biology 
+1	Reproduction	
+2	Genetics and Evolution	
+3	Biology and Human Welfare	
+4	Biotechnology and Its Applications Marks
+5	Ecology and Environment
+
+math 
+1.	Relations and Functions	
+2.	Algebra	
+3.	Calculus	
+4.	Probability
+5.	Vectors	
+6.	Three-Dimensional Geometry	
+7.	Application of Integral
+8.	Application of Calculus	
+9.	Linear Regression	
+10.	Linear Programming
+
+history 
+1. Towards Independence and Partition: the Last
+Phase (1935-1947)
+2. Establishment and development of Indian
+democracy (1947 – 1966)
+3. Challenges to Indian Democracy (1964 – 1977)
+4. Changing face of the Indian Democracy
+(1977 – 1986)
+5. India’s Foreign Policy
+6. Movements for Women’s Rights
+7. World War II
+8. De-colonisation – in Asia (China) and Africa
+(Ghana & Kenya)
+9. Cold War 1945-91– origin, course, end and
+impact
+11. Middle East: Israeli-Palestine conflict
+(1916-1993)
+
+
+physics 
+1. Physical Environment
+2. Population and Human settlements
+3. Resources of India and their Utilisation
+4. Infrastructural Resources
+
+
+economics 
+1. Micro Economic Theory
+2. Theory of Income and Employment
+3. Money and Banking
+4. Balance of Payment and Exchange Rate
+5. Public Finance
+6. National Income
+
+computer application 
+
+1. Boolean Algebra
+2. Computer Hardware
+3. Implementation of algorithms to solve
+problems
+4. Programming in Java (Review of Class XI
+Sections B and C)
+5. Objects
+6. Primitive values, Wrapper classes, Types and
+casting
+7. Variables, Expressions
+8. Statements, Scope
+9. Methods
+10. Arrays, Strings
+11. Recursion
+12. Inheritance, Interfaces and Polymorphism
+13. Data structures
+14. Complexity and Big O notation
+
+Geometrical and Mechanical Drawing
+Drawing (Engineering)
+
+
+Engineering Science
+

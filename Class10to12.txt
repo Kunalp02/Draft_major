@@ -1,0 +1,433 @@
+CBSE Class 11 
+
+Class 11 Maths
+
+Chapter 1: Sets 
+Chapter 2: Relations and Functions
+Chapter 3: Trigonometric Functions
+Chapter 4: Principle of Mathematical Induction
+Chapter 5: Complex Numbers and Quadratic Equations
+Chapter 6: Linear Inequalities
+Chapter 7: Permutations and Combinations
+Chapter 8: Binomial Theorem
+Chapter 9: Sequences and Series
+Chapter 10: Straight Lines
+Chapter 11: Conic Sections
+Chapter 12: Introduction to Three-Dimensional Geometry
+Chapter 13: Limits and Derivatives
+Chapter 14: Mathematical Reasoning
+Chapter 15: Statistics
+Chapter 16: Probability
+
+
+Class 11 Physics
+
+Chapter 1: Physical World
+Chapter 2: Units and Measurement
+Chapter 3: Motion in a Straight Line
+Chapter 4: Motion in a Plane
+Chapter 5: Law of Motion
+Chapter 6: Work, Energy and Power
+Chapter 7: Systems of Particles and Rotational Motion
+Chapter 8: Gravitation
+Chapter 9: Mechanical Properties of Solids
+Chapter 10: Mechanical Properties of Fluids
+Chapter 11: Thermal Properties of Matter
+Chapter 12: Thermodynamics
+Chapter 13: Kinetic Theory
+Chapter 14: Oscillations
+Chapter 15: Waves
+
+
+
+
+Class 11 Chemistry
+
+Chapter 1: Some Basic Concepts of Chemistry
+Chapter 2: Structure of Atom
+Chapter 3: Classification of Elements and Periodicity in Properties
+Chapter 4: Chemical Bonding and Molecular Structure
+Chapter 5: States of Matter
+Chapter 6: Thermodynamics
+Chapter 7: Equilibrium
+Chapter 8: Redox Reactions
+Chapter 9: Hydrogen
+Chapter 10: The s-Block Elements
+Chapter 11: The p-Block Elements
+Chapter 12: Organic Chemistry - Some Basic Principles and Techniques
+Chapter 13: Hydrocarbons
+Chapter 14: Environmental Chemistry
+
+
+
+Class 11 Biology
+
+Chapter 1: The Living World
+Chapter 2: Biological Classification
+Chapter 3: Plant Kingdom
+Chapter 4: Animal Kingdom
+Chapter 5: Morphology of Flowering Plants
+Chapter 6: Anatomy of Flowering Plants
+Chapter 7: Structural Organisation in Animals
+Chapter 8: Cell The Unit of Life
+Chapter 9: Biomolecules
+Chapter 10: Cell Cycle and Cell Division
+Chapter 11: Transport in Plants
+Chapter 12: Mineral Nutrition
+Chapter 13: Photosynthesis in Higher Plants
+Chapter 14: Respiration in Plants
+Chapter 15: Plant Growth and Development
+Chapter 16: Digestion and Absorption
+Chapter 17: Breathing and Exchange of Gases
+Chapter 18: Body Fluids and Circulation
+Chapter 19: Excretory Products and their Elimination
+Chapter 20: Locomotion and Movement
+Chapter 21: Neural Control and Coordination
+Chapter 22: Chemical Coordination and Integration
+
+
+
+
+
+
+Class 11 Accountancy
+
+
+Chapter 1: Introduction to Accounting
+Chapter 2: Theory Base of Accounting
+Chapter 3: Recording of Transactions 1
+Chapter 4: Recording of Transactions 2
+Chapter 5: Bank Reconciliation Statement
+Chapter 6: Trial Balance and Rectification of Errors
+Chapter 7: Depreciation, Provisions & Reserves
+Chapter 8: Bill of Exchange
+Chapter 9: Financial Statements - 1
+Chapter 10: Financial Statements - 2
+Chapter 11: Accounts from Incomplete Records
+Chapter 12: Applications of Computers in Accounting
+Chapter 13: Computerised Accounting System
+Chapter 14: Structuring Database for Accounting
+Chapter 15: Accounting System Using Database Management System
+
+
+
+
+
+
+Class 11 Business Studies
+
+Chapter 1: Business, Trade and Commerce
+Chapter 2: Forms of Business Organisation
+Chapter 3: Private, Public and Global Enterprises
+Chapter 4: Business Services
+Chapter 5: Emerging Modes of Business
+Chapter 6: Social Responsibilities of Business and Business Ethics
+Chapter 7: Formation of a Company
+Chapter 8: Sources of Business Finance
+Chapter 9: Small Business
+Chapter 10: Internal Trade
+Chapter 11: International Business
+
+
+
+Class 11 Economics
+
+
+Chapter 1: Indian Economy on the Eve of Independence
+Chapter 2: Indian Economy
+Chapter 3: Liberalisation, Privatisation and Globalisation – An Appraisal
+Chapter 4: Poverty
+Chapter 5: Human Capital Formation in India
+Chapter 6: Rural Development
+Chapter 7: Employment Growth, Informatisation and Other Issues
+Chapter 8: Infrastructure
+Chapter 9: Environment and Sustainable Development
+Chapter 10: Comparative Development: Experiences of India and its Neighbours
+
+
+Class 11 Political Science
+
+Political Theory	Indian Constitution at Work
+Chapter 1 Political Theory: An Introduction
+Chapter 2 Freedom
+Chapter 3 Equality
+Chapter 4 Social Justice
+Chapter 5 Rights
+Chapter 6 Citizenship
+Chapter 7 Nationalism
+Chapter 8 Secularism
+Chapter 9 Peace
+Chapter 10 Development
+Chapter 1 Constitution: Why and How?
+Chapter 2 Rights in the Indian Constitution
+Chapter 3 Election and Representation
+Chapter 4 Executive
+Chapter 5 Legislature
+Chapter 6 Judiciary
+Chapter 7 Federalism
+Chapter 8 Local Governments
+Chapter 9 Constitution as a Living Document
+Chapter 10 The Philosophy of the Constitution
+
+
+Class 11 English Core
+
+Chapter 1 : Hornbill (Prose)	
+The Portrait of a Lady
+We’re Not Afraid to Die…if We Can All Be Together
+Discovering Tut: the Saga Continues
+Landscape of the Soul
+The Ailing Planet: the Green Movement’s Role
+The Browning Version
+The Adventure
+Silk Road
+
+Chapter 2 : Hornbill (Poem)	
+A Photograph (Poem)
+Laburnum Top
+The Voice of the Rain
+Childhood
+Father to Son
+
+Chapter 3: Snapshot	
+The Summer of the Beautiful White Horse
+The Address
+Ranga’s Marriage
+Albert Einstein at School
+Mother’s Day
+The Ghat of the Only World
+Birth
+The Tale of Melon City
+
+
+
+
+Class 12 Syllabus
+
+https://colab.research.google.com/drive/1yamDDrEpI7lDwi7M1prirZWmm-cd36HC#scrollTo=gI9qCZxoI59S
+
+
+Class 12 Maths
+
+Chapter 1: Relations and Functions
+Chapter 2: Inverse Trigonometric Functions
+Chapter 3: Matrices
+Chapter 4: Determinants
+Chapter 5: Continuity and Differentiability
+Chapter 6: Application of Derivatives
+Chapter 7: Integrals
+Chapter 8: Application of Integrals
+Chapter 9: Differential Equations
+Chapter 10: Vector Algebra
+Chapter 11: Three-Dimensional Geometry
+Chapter 12: Linear Programming
+Chapter 13: Probability
+
+
+Class 12 Physics
+
+Chapter 1: Electric Charges and Fields
+Chapter 2: Electrostatic Potential and Capacitance
+Chapter 3: Current Electricity
+Chapter 4: Moving Charges and Magnetism
+Chapter 5: Magnetism And Matter
+Chapter 6: Electromagnetic Induction
+Chapter 7: Alternating Current
+Chapter 8: Electromagnetic Waves
+Chapter 9: Ray Optics and Optical Instruments
+Chapter 10: Wave Optics
+Chapter 11: Dual Nature of Radiation and Matter
+Chapter 12: Atoms
+Chapter 13: Nuclei
+Chapter 14: Semiconductor Electronic: Material, Devices And Simple Circuits
+Chapter 15: Communication Systems
+
+
+Class 12 Chemistry
+
+Chapter 1: The Solid State
+Chapter 2: Solutions
+Chapter 3: Electrochemistry
+Chapter 4: Chemical Kinetics
+Chapter 5: Surface Chemistry
+Chapter 6: General Principles and Processes of Isolation of Elements
+Chapter 7: The p-Block Elements
+Chapter 8: The d and f Block Elements
+Chapter 9: Coordination Compounds
+Chapter 10: Haloalkanes and Haloarenes
+Chapter 11: Alcohols, Phenols and Ethers
+Chapter 12: Aldehydes, Ketones and Carboxylic Acids
+Chapter 13: Amines
+Chapter 14: Biomolecules
+Chapter 15: Polymers
+Chapter 16: Chemistry in Everyday Life
+
+
+
+
+Class 12 Biology
+
+Chapter 1: Reproduction in Organism
+Chapter 2: Sexual Reproduction in Flowering Plants
+Chapter 3: Human Reproduction
+Chapter 4: Reproductive Health
+Chapter 5: Principles of Inheritance and Variation
+Chapter 6: Molecular Basis of Inheritance
+Chapter 7: Evolution
+Chapter 8: Human Health and Disease
+Chapter 9: Strategies for Enhancement in Food Production
+Chapter 10: Microbes in Human Welfare
+Chapter 11: Biotechnology: Principles and Processes
+Chapter 12: Biotechnology and its Applications
+Chapter 13: Organisms and Populations
+Chapter 14: Ecosystem
+Chapter 15: Biodiversity and Conservation
+Chapter 16: Environmental Issues
+
+
+
+Class 12 Accountancy
+
+Part 1
+Chapter 1: Accounting for Non-Profit Organisation
+Chapter 2: Accounting for Partnership Firms: Basic Concepts
+Chapter 3: Reconstruction of a Partnership Firm: Admission of a Partner
+Chapter 4: Reconstruction of a Partnership Firm: Retirement or Death of a Partner
+Chapter 5: Dissolution of Partnership Firm
+
+Part 2
+Chapter 1: Accounting for Share Capital
+Chapter 2: Issue and Redemption of Debentures
+Chapter 3: Financial Statements of a Company
+Chapter 4: Analysis of Financial Statements
+Chapter 5: Accounting Ratios
+Chapter 6: Cash Flow Statements
+
+
+
+Class 12 Economics
+
+Chapter 1: Introduction
+Chapter 2: Theory Of Consumer Behaviour
+Chapter 3: Production and Costs
+Chapter 4: The Theory Of The Firm Under Perfect Competition
+Chapter 5: Market Equilibrium
+Chapter 6: Non-Competitive Markets
+
+Chapter 1: Introduction
+Chapter 2: National Income Accounting
+Chapter 3: Money and Banking
+Chapter 4: Determination Of Income and Employment
+Chapter 5: Government Budget and The Economy
+Chapter 6: Open Economy Macroeconomics
+
+
+
+Class 12 Business Studies
+
+Chapter 1: Nature and Significance of Management
+Chapter 2: Principles of Management
+Chapter 3: Business Environment
+Chapter 4: Planning
+Chapter 5: Organising
+Chapter 6: Staffing
+Chapter 7: Directing
+Chapter 8: Controlling
+Chapter 9: Financial Management
+Chapter 10: Financial Markets
+Chapter 11: Marketing
+Chapter 12: Consumer Protection
+Chapter 13: Entrepreneurship Development
+
+
+CBSE Syllabus Class 12 Political Science (Part-1)
+
+The End of Bipolarity
+Contemporary Centres of Power
+Contemporary South Asia
+International Organizations
+Security in the Contemporary World
+Environment and Natural Resources
+Globalisation
+CBSE Syllabus Class 12 Political Science (Part-2)
+Challenges of Nation-Building
+Era of One-Party Dominance
+Politics of Planned Development
+India’s External Relations
+Challenges to and Restoration of the Congress System
+The Crisis of Democratic Order
+Regional Aspirations
+Recent Developments in Indian Politics
+
+
+CBSE Class 12 English Core
+
+Flamingo (Prose)	
+The Last Lesson
+Lost Spring
+Deep Water
+The Rattrap
+Indigo
+Poets and Pancakes
+The Interview
+Going Places
+
+
+Flamingo (Poem)	
+My Mother at Sixty-Six
+Keeping Quiet
+A Thing of Beauty
+A Roadside Stand
+Aunt Jennifer’s Tigers
+
+
+Vistas	
+
+The Third Level
+The Tiger King
+Journey to the end of the Earth
+The Enemy
+On the Face of It
+Memories of Childhood
+
+
+
+
+CBSE Class 12 English Elective
+
+Short Stories	
+I Sell My Dreams
+Eveline
+A Wedding in Brownsville
+
+Poetry	
+A Lecture Upon the Shadow
+Poems by Milton
+Poems by Blake
+Kubla Khan
+Trees
+The Wild Swans of Coole
+Time and Time Again
+
+Non-Fiction	
+Freedom
+The Mark on the Wall
+Film-making
+Why the Novel Matters
+The Argumentative Indian
+
+Drama	Chandalika Rabindranath Tagore
+
+
+
+
+
+
+
+
+
+
+
+
+
+

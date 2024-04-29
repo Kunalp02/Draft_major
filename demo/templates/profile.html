@@ -1,0 +1,129 @@
+{% extends 'dashboard.html' %}
+
+{% block content %}
+    <style>
+        .custom-form-container {
+            width: 80%;
+            margin: 0 auto;
+            padding: 20px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            background-color: #f9f9f9;
+            overflow-y: auto; /* Added to enable vertical scrolling */
+            height: 80vh; /* Added to limit the height and enable scrolling */
+        }
+
+        .custom-form-group {
+            margin-bottom: 10px;
+        }
+
+        .custom-label {
+            display: block;
+            font-weight: bold;
+            margin-bottom: 5px;
+        }
+
+        .custom-input {
+            width: 100%;
+            padding: 8px;
+            border: 1px solid #ccc;
+            border-radius: 3px;
+            box-sizing: border-box;
+        }
+
+        .custom-select {
+            width: 100%;
+            padding: 8px;
+            border: 1px solid #ccc;
+            border-radius: 3px;
+            box-sizing: border-box;
+        }
+
+        .custom-textarea {
+            width: 100%;
+            height: 100px;
+            padding: 8px;
+            border: 1px solid #ccc;
+            border-radius: 3px;
+            box-sizing: border-box;
+        }
+
+        .custom-btn {
+            background-color: #4CAF50;
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 3px;
+            cursor: pointer;
+        }
+
+        .custom-btn:hover {
+            background-color: #45a049;
+        }
+    </style>
+
+    <div class="custom-form-container">
+        <h1>Profile Details</h1>
+        <form method="POST" class="custom-form">
+            {% csrf_token %}
+            <div class="custom-form-group">
+                <label class="custom-label">Username</label>
+                <input type="text" name="username" value="{{ user.username }}" class="custom-input" readonly>
+            </div>
+            <div class="custom-form-group">
+                <label class="custom-label">First Name</label>
+                <input type="text" name="first_name" value="{{ user.first_name }}" class="custom-input">
+            </div>
+            <div class="custom-form-group">
+                <label class="custom-label">Last Name</label>
+                <input type="text" name="last_name" value="{{ user.last_name }}" class="custom-input">
+            </div>
+            <div class="custom-form-group">
+                <label class="custom-label">Email Address</label>
+                <input type="email" name="email" value="{{ user.email }}" class="custom-input">
+            </div>
+            <div class="custom-form-group">
+                <label class="custom-label">Password</label>
+                <input type="password" name="password" value="********" class="custom-input">
+            </div>
+            <div class="custom-form-group">
+                <label class="custom-label">Current Class</label>
+                <select name="curr_class" class="custom-select">
+                    <option>6th</option>
+                    <option>7th</option>
+                    <option>8th</option>
+                    <option>9th</option>
+                </select>
+            </div>
+            <div class="custom-form-group">
+                <label class="custom-label">Educational Board</label>
+                <select name="board" class="custom-select">
+                    <option>State</option>
+                    <option>CBSE</option>
+                    <option>ICSE</option>
+                </select>
+            </div>
+            <div class="custom-form-group">
+                <label class="custom-label">School Name</label>
+                <input type="text" name="school" class="custom-input">
+            </div>
+            <div class="custom-form-group">
+                <label class="custom-label">Hobbies</label>
+                <input type="text" name="hobbies" class="custom-input">
+            </div>
+            <div class="custom-form-group">
+                <label class="custom-label">Extracurricular Activities</label>
+                <input type="text" name="extracurricular" class="custom-input">
+            </div>
+            <div class="custom-form-group">
+                <label class="custom-label">Skills</label>
+                <textarea name="skills" class="custom-textarea"></textarea>
+            </div>
+            <div class="custom-form-group">
+                <label class="custom-label">Certifications</label>
+                <textarea name="certifications" class="custom-textarea"></textarea>
+            </div>
+            <button type="submit" class="custom-btn">Save</button>
+        </form>
+    </div>
+{% endblock %}

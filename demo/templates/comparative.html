@@ -1,0 +1,114 @@
+{% extends 'dashboard.html' %}
+{% load static %}
+
+{% block content %}
+
+<style>
+    #cv {
+        width: 150px;
+        cursor: pointer;
+        border-radius: 5px;
+    }
+
+    .doc-container {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        background-color: #f9f9f9;
+        padding: 20px;
+        border-radius: 10px;
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    }
+
+    .elements {
+        display: flex;
+        justify-content: center;
+        margin-bottom: 20px;
+        align-items: center;
+
+    }
+
+    .elements div {
+        margin-right: 20px;
+    }
+
+    input[type="file"] {
+        display: none; /* Hide the default file input */
+    }
+
+    .file-name {
+        margin-top: 10px;
+    }
+
+    textarea {
+        width: 450px;
+        height: 350px;
+        padding: 10px;
+        border: none;
+        background-color: #ffffff;
+        border-radius: 5px;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    }
+
+    button {
+        padding: 10px 20px;
+        border: none;
+        background-color: #007bff;
+        color: #ffffff;
+        border-radius: 5px;
+        cursor: pointer;
+    }
+
+    button:hover {
+        background-color: #0056b3;
+    }
+
+    h3 {
+        margin-top: 20px;
+        font-size: 1.2em;
+        color: #333333;
+    }
+
+    .resume {
+        width: 250px;
+        text-align:center;
+        padding: 10px;
+        background-color: #ffffff;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        border-radius: 10px;
+    }
+
+</style>
+
+<div class="doc-container">
+
+    <div class="elements">
+        <div class="resume">
+            <label for="fileInput">
+                <img id="cv" src="{% static 'cv.png' %}" alt="Upload CV">
+                <div class="file-name">No file chosen</div>
+            </label>
+            <input type="file" id="fileInput" onchange="updateFileName(this)">
+        </div>
+        <div>
+            <textarea placeholder="Enter your complete job description here..."></textarea>
+        </div>
+    </div>
+
+
+    <button type="submit">Analyze</button>
+
+</div>
+
+{% if score %}
+<h3>Resume Score</h3>
+{% endif %}
+
+<script>
+    function updateFileName(input) {
+        const fileName = input.files[0].name;
+        document.querySelector('.file-name').innerText = fileName;
+    }
+</script>
+
+{% endblock %}
